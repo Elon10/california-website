@@ -1494,7 +1494,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-    background: #57F287;
+    background: #0084ff;
 }
 
 .pricing .featured h3 {
@@ -1515,7 +1515,7 @@ section {
     z-index: 1;
     font-size: 14px;
     padding: 1px 0 3px 0;
-    background: #3fcc6cbe;
+    background: #0026ffbe;
     color: #fff;
 }
 
@@ -1559,7 +1559,7 @@ section {
     position: absolute;
     right: 0;
     left: 20px;
-    color: #57F287;
+    color: #1150d8;
 }
 
 .faq .faq-list .icon-show,
@@ -1662,7 +1662,7 @@ section {
 .contact .php-email-form .error-message {
     display: none;
     color: #fff;
-    background: #57F287;
+    background: #1033f5;
     text-align: left;
     padding: 15px;
     font-weight: 600;
@@ -1675,7 +1675,7 @@ section {
 .contact .php-email-form .sent-message {
     display: none;
     color: #fff;
-    background: #57F287;
+    background: #5900ff;
     text-align: center;
     padding: 15px;
     font-weight: 600;
@@ -1695,7 +1695,7 @@ section {
     width: 24px;
     height: 24px;
     margin: 0 10px -6px 0;
-    border: 3px solid #18d26e;
+    border: 3px solid #007ff7;
     border-top-color: #373ad4;
     -webkit-animation: animate-loading 1s linear infinite;
     animation: animate-loading 1s linear infinite;
@@ -1726,7 +1726,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-    background: #34e5a6;
+    background: #008bfd;
 }
 
 button[type="green"] {
@@ -1940,7 +1940,7 @@ button[type="red"]:hover {
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-    background: #149f6e;
+    background: #0099ff;
 }
 
 #footer .copyright {
